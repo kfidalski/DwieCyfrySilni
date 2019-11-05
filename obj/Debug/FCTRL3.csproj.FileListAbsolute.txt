@@ -1,0 +1,7 @@
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\bin\Debug\FCTRL3.exe.config
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\bin\Debug\FCTRL3.exe
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\bin\Debug\FCTRL3.pdb
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\obj\Debug\FCTRL3.csprojResolveAssemblyReference.cache
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\obj\Debug\FCTRL3.csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\obj\Debug\FCTRL3.exe
+D:\Users\fidalskik\source\repos\FCTRL3\FCTRL3\obj\Debug\FCTRL3.pdb
